@@ -1,2 +1,1 @@
-# html
-Html of yttogether.tk
+# This page includes HTML of yttogether.tk
